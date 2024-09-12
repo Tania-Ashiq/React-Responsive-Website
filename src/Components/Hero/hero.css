@@ -95,4 +95,12 @@
   .stat > :nth-child(2) {
     font-size: 0.8rem;
   }
+   .search-bar{
+    height: 4.5rem;
+    position: relative;
+  }
+  .search-bar .button{
+    position: absolute;
+    right: 1rem;
+  }
 }
