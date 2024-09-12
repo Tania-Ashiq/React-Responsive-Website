@@ -25,7 +25,7 @@ const Contact = () => {
                     <div className="flexCenter icon">
                       <MdCall size={25} />
                     </div>
-                    <div className="flexStart detail">
+                    <div className="flexColStart detail">
                       <span className="primaryText">Call</span>
                       <span className="secondaryText">021 123 145 14</span>
                     </div>
